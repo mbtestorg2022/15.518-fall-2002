@@ -47,11 +47,48 @@ Grading
 
 Your grade will be based on the following weights:
 
-| Activities | Percentages |
-| --- | --- |
-| Contributions to Class Discussion | 10% |
-| Written Homework | 45% |
-| Final Examination | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Contributions to Class Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Homework
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments may be done in groups of two or three unless otherwise stated, and are intended to help you learn and practice the mechanics of the course material. This means the work you turn in must be your own and not copied from another. This does not mean you have to do your assignments in isolation, and you are permitted to consult with others in order to understand, or better understand, the material. Seeking and giving such assistance is encouraged. If you are unsure whether some particular form of interaction is proper under these rules please consult me and/or T.A. for clarification. Late assignments will not be accepted.
 
